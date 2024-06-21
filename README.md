@@ -1,4 +1,4 @@
-#### Hi there, I'm Greg 👋
+#### Hello world, I'm Greg 👋
 
 #### 🚀 About Me
 I'm a computer scientist with a passion for building explainable AI innovation for healthcare.
