@@ -7,7 +7,7 @@
 - Maracuja - A python packacage for analysing TCR-sequencing data
 - PharosAI - A not-for-profit platform to faciliate the adoption of AI-powered cancer care into the NHS
 
-#### 👯 I’m looking to collaborate on multimodal AI and computational pathology research
+👯 **I’m looking to collaborate on** multimodal AI and computational pathology research
 
 #### 📫 How to reach me
 - Email: gregory.e.verghese@kcl.ac.uk
