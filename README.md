@@ -1,7 +1,5 @@
 # Hi there, I'm Greg 👋
 
-![Profile views](https://gpvc.arturio.dev/gregoryverghese)
-
 ## 🚀 About Me
 I'm a computer scientist with a passion for building explainable AI innovation for cancer care. I enjoy working on projects that involve Deep learning, explainable AI and biology & cancer datasets.
 
@@ -23,9 +21,3 @@ I'm a computer scientist with a passion for building explainable AI innovation f
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoryverghese&show_icons=true&theme=radical)
-
-
-## 📈 Contribution Graph
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gregoryverghese&theme=react-dark)](https://github.com/gregoryverghese)
-
-
