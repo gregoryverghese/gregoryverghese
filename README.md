@@ -1,4 +1,4 @@
-### Hi there, I'm Greg 👋
+#### Hi there, I'm Greg 👋
 
 #### 🚀 About Me
 I'm a computer scientist with a passion for building explainable AI innovation for cancer care. I enjoy working on projects that involve Deep learning, explainable AI and biology & cancer datasets.
@@ -15,6 +15,3 @@ I'm a computer scientist with a passion for building explainable AI innovation f
 #### 📫 How to reach me
 - Email: gregory.e.verghese@kcl.ac.uk
 - LinkedIn: https://www.linkedin.com/in/gregory-verghese-95311262/
-
-#### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoryverghese&show_icons=true&theme=radical)
