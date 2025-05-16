@@ -9,6 +9,10 @@
 
 👯 **I’m looking to collaborate on** multimodal AI and computational pathology research
 
+🔐 Most repositories are private, contact me if you want to collaborate on a project
+
 #### 📫 How to reach me
 - Email: gregory.e.verghese@kcl.ac.uk
 - LinkedIn: https://www.linkedin.com/in/gregory-verghese-95311262/
+
+
