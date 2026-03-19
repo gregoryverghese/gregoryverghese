@@ -1,6 +1,6 @@
 #### Hello world, I'm Greg 👋
 
-🚀 I'm a computer scientist with a passion for building explainable multimodal AI and data innovation for healthcare.
+🚀 I'm a physicist turned computer scientist with a passion for building explainable multimodal AI and data innovation for healthcare.
 
 #### 🔭 I’m currently working on and interested in
 - PharosAI: A Federated platform for demoncratising access to multimodal cancer data
@@ -8,7 +8,7 @@
 - Multimodal and cross-modal in-silio data generation for biomedical applications
 - PySlyde: A lightweight, open-source toolkit for computational pathology preprocessing
 
-👯 **I’m looking to collaborate on** multimodal AI and computational pathology research
+👯 **I’m looking to collaborate on** multimodal and intepretable AI development and democratising big data for biology! 
 
 🔐 Most active repositories are private, contact me if you want to collaborate on a project
 
