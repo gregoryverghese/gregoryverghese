@@ -1,11 +1,12 @@
 #### Hello world, I'm Greg 👋
 
-🚀 I'm a computer scientist with a passion for building explainable AI innovation for healthcare.
+🚀 I'm a computer scientist with a passion for building explainable multimodal AI and data innovation for healthcare.
 
-#### 🔭 I’m currently working on
-- PALACE - A weakly-supervised DL framework for predicting Head & Neck cancer recurrence from H&E tissue
-- Maracuja - A python packacage for analysing TCR-sequencing data
-- PharosAI - A not-for-profit platform to faciliate the adoption of AI-powered cancer care into the NHS
+#### 🔭 I’m currently working on and interested in
+- PharosAI: A Federated platform for demoncratising access to multimodal cancer data
+- Concept Learning and interpretabiltiy for biomedical and clinical AI
+- Multimodal and cross-modal in-silio data generation for biomedical applications
+- PySlyde: A lightweight, open-source toolkit for computational pathology preprocessing
 
 👯 **I’m looking to collaborate on** multimodal AI and computational pathology research
 
